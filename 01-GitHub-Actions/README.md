@@ -959,7 +959,7 @@ we will use **SSH authentication**, which is one of the most common approaches i
 Generate a new SSH key pair:
 
 ```bash
-ssh-keygen -t ed25519 -C "cloudwithvarjosh@gmail.com" -f ~/.ssh/cwvj_gha_ed25519
+ssh-keygen -t ed25519 -C "mosksky@gmail.com" -f ~/.ssh/cwvj_gha_ed25519
 ```
 ---
 
